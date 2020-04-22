@@ -1,0 +1,25 @@
+{
+  "name": "todolistapp",
+  "version": "1.0.0",
+  "description": "RESTful API on NodeJS for todo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "MongoDB",
+    "NodeJS"
+  ],
+  "author": "Ali Abbas",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.10"
+  }
+}
